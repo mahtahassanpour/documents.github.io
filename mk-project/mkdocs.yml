@@ -1,1 +1,4 @@
 site_name: My Docs
+nav:
+  - home : index.md
+  - page2 : sample.md
